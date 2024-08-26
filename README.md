@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 💬 Ask me about **ReactJs , .Net**
+- 💬 Ask me about **ReactJs, NodeJs, Express**
 
 - 📫 How to reach me **nour.chakroun199@gmail.com**
 
