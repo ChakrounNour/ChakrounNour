@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
 <h3 align="center">Fullstack Web Developer From Tunisia</h3>
 
-I am Nour Chakroun, a Junior Software Engineer with over one year of experience, proficient in both Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
+I'm Nour Chakroun, a Junior Software Engineer with over one year of experience, proficient in both Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
 
 ####  Connect with me:
 
