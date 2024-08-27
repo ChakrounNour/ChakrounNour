@@ -3,7 +3,7 @@
 
 I am Nour Chakroun, a Junior Software Engineer with over one year of experience, proficient in both Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
 
-<h3 align="left"> Connect with me:</h3>
+####  Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nour_Chakroun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-chakroun/) 
 [![Mail Badge](https://img.shields.io/badge/-Nour_Chakroun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nour.chakroun199@gmail.com)
@@ -28,6 +28,7 @@ I am Nour Chakroun, a Junior Software Engineer with over one year of experience,
 - :email: nour.chakroun199@gmail.com
 
 <br/>
+
 ### My stats ⭐
 
 <div align="center">
