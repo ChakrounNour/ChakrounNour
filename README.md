@@ -4,12 +4,12 @@
 I am Nour Chakroun, a Junior Software Engineer with over one year of experience, proficient in both Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
 
 :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Nour_Chakroun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-chakroun/) 
-[![Mail Badge](https://img.shields.io/badge/-Nour_Chakroun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nour.chakroun199@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nour-chakroun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour-chakroun" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Nour_Chakroun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-chakroun/) 
+[![Mail Badge](https://img.shields.io/badge/-Nour_Chakroun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nour.chakroun199@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
