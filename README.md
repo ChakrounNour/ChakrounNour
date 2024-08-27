@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
 <h3 align="center">Fullstack Web Developer From Tunisia</h3>
 
-- 🌱 I’m currently learning **VueJs**
+I am Nour Chakroun, a Junior Software Engineer with over one year of experience, proficient in both Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
 
-- 💬 Ask me about **ReactJs, NodeJs, Express**
-
-- 📫 How to reach me **nour.chakroun199@gmail.com**
+:mailbox: Reach me out!
+[![Linkedin Badge](https://img.shields.io/badge/-Nour_Chakroun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-chakroun/) 
+[![Mail Badge](https://img.shields.io/badge/-Nour_Chakroun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nour.chakroun199@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,3 @@
 
 ### Profile views counter 👁️‍🗨️
 [![Nour chakroun profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ChakrounNour)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourchakroun&" alt="nourchakroun" /></p>
